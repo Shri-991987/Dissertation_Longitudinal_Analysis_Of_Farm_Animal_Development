@@ -27,3 +27,6 @@ Objectives -
  stages of growth?
 3. How can these models be used to improve farm management practices, particularly in terms of opti
 mizing breeding strategies and maximizing meat production?
+
+Code for the above Project is given in the file - Dissertation_Updated.iypnb
+Data can be found from the Data folder in the repository.
