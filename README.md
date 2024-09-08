@@ -18,13 +18,12 @@ an exploratory data analysis, with checking of unusual values. Analyzing growth
 curves can take several forms. Starting points include longitudinal data analysis
 and fitting of parametric models. When the data are dense, then functional data
 analysis may also be appropriate.
-A second dataset (which exists only on paper) is similar, but deals with cows
-rather than sheep. In this case there are fewer animals, but for each cow there
-is a larger number of breeding years. The objectives are similar, but may also
-include an assessment of how many years is “optimal” before economic viability
-ceases to hold. Note that these data would need to be keyed in (estimated to
-take about 8 hours in all).
 
 MATH5872M: Dissertation in DSA Proposed dissertation topics 2023/24
 
-Aim :Either, or both datasets may be considered, using the above approaches.
+Objectives - 
+1. Howdogender, breed, and litter size affect the growth trajectories of lambs?
+2. What are the effective statistical and machine learning models for predicting lamb weight at various
+ stages of growth?
+3. How can these models be used to improve farm management practices, particularly in terms of opti
+mizing breeding strategies and maximizing meat production?
