@@ -22,7 +22,7 @@ analysis may also be appropriate.
 MATH5872M: Dissertation in DSA Proposed dissertation topics 2023/24
 
 Objectives - 
-1. Howdogender, breed, and litter size affect the growth trajectories of lambs?
+1. How do gender, breed, and litter size affect the growth trajectories of lambs?
 2. What are the effective statistical and machine learning models for predicting lamb weight at various
  stages of growth?
 3. How can these models be used to improve farm management practices, particularly in terms of opti
