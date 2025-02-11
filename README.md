@@ -69,3 +69,5 @@ ward shift in trajectory as litter size increased, particularly in pedigree lamb
 
 Code for the above Project is given in the file - Dissertation_Updated.iypnb
 Data can be found from the Data folder in the repository.
+
+### Note - Detailed Analysis can be accessed from the pdf file.
